@@ -294,12 +294,12 @@
 	  </script></h1></br>
 	<h1 align="center"><a href="https://www.bilibili.com/video/BV1Fm4y1o7Z8/">【点击可见深情告白】</a></h1></br>
 		  <a href="https://www.bilibili.com/video/BV13Q4y1i7nm/"><h1 align="center">生当复来归，死当长相思</h1></a>
-		  <a href="https://www.bilibili.com/video/BV16t4y1576B/"><h1 align="center"><img src="img/IMG_20221029_121934.jpg" alt=""></h1>
-		  <a href="https://www.bilibili.com/video/BV1FF411G7Ax/"><h1 align="center"><img src="img/cc.jpg" alt=""></h1></br>
-		<a href="https://www.bilibili.com/video/BV1GS4y1N79e/"><h1 align="center"><img src="img/ca.jpg" alt=""></h1>
+		  <a href="https://www.bilibili.com/video/BV16t4y1576B/"><h1 align="center"><img src="js/IMG_20221029_121934.jpg" alt=""></h1>
+		  <a href="https://www.bilibili.com/video/BV1FF411G7Ax/"><h1 align="center"><img src="js/cc.jpg" alt=""></h1></br>
+		<a href="https://www.bilibili.com/video/BV1GS4y1N79e/"><h1 align="center"><img src="js/ca.jpg" alt=""></h1>
 		</br>
 		
-		<a href="https://www.bilibili.com/video/BV1ZR4y1s75N/"><h1 align="center"><img src="img/gf.jpg" alt=""></h1>
+		<a href="https://www.bilibili.com/video/BV1ZR4y1s75N/"><h1 align="center"><img src="js/gf.jpg" alt=""></h1>
 	</body>
 </html>
 
